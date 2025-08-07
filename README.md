@@ -132,10 +132,10 @@ Use `try/catch` blocks in your code to handle errors gracefully. Log or notify e
 ## Author
 
 **Habyarimana Caleb**  
-GitHub: [github.com/habyarimanacaleb](https://github.com/habyarimanacaleb)
+GitHub: [github.com/grafter-ca](https://github.com/grafter-ca)
 
 ---
 
 ## License
 
-This documentation is prepared as part of the ALX Software Engineering Program and uses data from MoviesDatabase API (RapidAPI).
+This documentation is prepared as part of the ALX Software Engineering Program and uses data from the MoviesDatabase API (RapidAPI).
